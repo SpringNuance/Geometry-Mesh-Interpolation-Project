@@ -1,0 +1,9 @@
+Code braucht:
+- Node Coordiantes
+- Element connectivity
+- Nodal results
+
+dynain export liefert:
+- Node Coordinates
+- Element shell thickness (element connectivity + shell Dicke in zwei Zeilen)
+- Element results (initial stress shell, initial strain shell)
